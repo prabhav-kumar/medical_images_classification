@@ -20,9 +20,7 @@ The dataset is split into training, validation, and testing sets for fair perfor
 - PyTorch  
 - torchvision  
 - scikit-learn  
-- NumPy  
-- Pandas  
-- Matplotlib  
+- NumPy
 
 Install dependencies:
 
