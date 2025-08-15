@@ -30,14 +30,5 @@ Install dependencies:
 pip install torch torchvision scikit-learn numpy pandas matplotlib
 ```
 
-## Results
-
-| Metric    | Value    |
-|-----------|----------|
-| Accuracy  | 97.54%   |
-| Precision | 96.60%   |
-| Recall    | 97.50%   |
-| F1-score  | 97.54%   |
-
 ### If you need the trained model weights (medical_classification.pth), feel free to email me at:
 📧 k.prabhav2005@gmail.com
