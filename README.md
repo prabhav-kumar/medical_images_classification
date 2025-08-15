@@ -25,7 +25,7 @@ The dataset is split into training, validation, and testing sets for fair perfor
 Install dependencies:
 
 ```bash
-pip install torch torchvision scikit-learn numpy pandas matplotlib
+pip install torch torchvision scikit-learn numpy
 ```
 
 ### If you need the trained model weights (medical_classification.pth), feel free to email me at:
