@@ -39,5 +39,5 @@ pip install torch torchvision scikit-learn numpy pandas matplotlib
 | Recall    | 97.50%   |
 | F1-score  | 97.54%   |
 
-### If you need the trained model weights (medical_model.pth), feel free to email me at:
+### If you need the trained model weights (medical_classification.pth), feel free to email me at:
 📧 k.prabhav2005@gmail.com
